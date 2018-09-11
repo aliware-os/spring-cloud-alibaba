@@ -1,0 +1,56 @@
+baseURL = "http://aliware-os.github.io/spring-cloud-alibaba"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Spring Cloud Alibaba Documentation"
+theme = "hugo-theme-learn-master"
+themesdir = "themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/aliware-os/spring-cloud-alibaba/edit/master/content/"
+  description = "Documentation for Spring Cloud Alibaba"
+  author = "Aliware Docs"
+  showVisitedLinks = true
+  disableBreadcrumb = true
+  disableNextPrev = true
+  themeVariant = "blue"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Documentation for Spring Cloud Alibaba"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Github Repo"
+identifier = "ds"
+url = "https://github.com/spring-cloud-incubator/spring-cloud-alibaba"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Repo Github"
+identifier = "ds"
+url = "https://github.com/spring-cloud-incubator/spring-cloud-alibaba"
+weight = 10
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
