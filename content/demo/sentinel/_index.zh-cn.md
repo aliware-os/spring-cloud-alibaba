@@ -1,7 +1,7 @@
 +++
-title = "Sentinel Example"
+title = "2. Sentinel 示例"
 date = 2018-08-27T11:44:02+08:00
-weight = 5
+weight = 1
 +++
 
 ## 项目说明

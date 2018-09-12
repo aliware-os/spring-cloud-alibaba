@@ -1,7 +1,9 @@
 +++
-title = "Roadmap"
+title = "路线图"
 date = 2018-08-27T11:44:02+08:00
-weight = 5
+weight = 1
+chapter = true
+pre = "<b>0. </b>"
 +++
 
 Spring Cloud Alibaba 致力于提供分布式应用服务开发的一站式解决方案。项目包含开发分布式应用服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。

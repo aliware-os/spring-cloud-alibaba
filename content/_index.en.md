@@ -1,10 +1,10 @@
+---
+title: "Spring Cloud Alibaba"
+date: 2018-09-11T13:26:22+08:00
+draft: false
 
+---
 
-+++
-title = "Spring Cloud Alibaba"
-date = 2018-08-27T11:44:02+08:00
-weight = 5
-+++
 See the [中文文档](https://github.com/spring-cloud-incubator/spring-cloud-alibaba/blob/master/README-zh.md) for Chinese readme.
 
 Spring Cloud Alibaba provides a one-stop solution for distributed application development. It contains all the components required to develop distributed applications, making it easy for you to develop your applications using Spring Cloud.

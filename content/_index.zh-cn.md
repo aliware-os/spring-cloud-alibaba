@@ -1,8 +1,10 @@
-+++
-title = "Spring Cloud Alibaba"
-date = 2018-08-27T11:44:02+08:00
-weight = 5
-+++
+---
+title: "Spring Cloud Alibaba"
+date: 2018-09-11T13:26:22+08:00
+draft: false
+
+---
+
 Spring Cloud Alibaba 致力于提供分布式应用服务开发的一站式解决方案。此项目包含开发分布式应用服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
 
 依托 Spring Cloud Alibaba，您只需要添加一些注解和少量配置，就可以将 Spring Cloud 应用接入阿里分布式应用解决方案，通过阿里中间件来迅速搭建分布式应用系统。

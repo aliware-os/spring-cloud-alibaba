@@ -1,4 +1,9 @@
-# Sentinel Dubbo Provider Example
++++
+title = "1. Sentinel Dubbo Provider Example"
+date = 2018-08-27T11:44:02+08:00
+weight = 10
++++
+
 ## Project Instruction
 
 This example illustrates how to use Sentinel starter to implement flow control for Spring Cloud applications.

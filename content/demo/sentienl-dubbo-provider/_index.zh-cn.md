@@ -1,4 +1,8 @@
-# Sentinel Dubbo Provider Example
++++
+title = "1. Sentinel Dubbo Provider 示例"
+date = 2018-08-27T11:44:02+08:00
+weight = 10
++++
 
 ## 项目说明
 

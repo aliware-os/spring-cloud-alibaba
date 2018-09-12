@@ -1,4 +1,9 @@
-# Sentinel Dubbo Consumer Example
++++
+title = "3. Sentinel Dubbo Consumer Example"
+date = 2018-08-27T11:44:02+08:00
+weight = 10
++++
+
 ## Project Instruction
 
 This example illustrates how to use Sentinel starter to implement flow control for Spring Cloud applications.

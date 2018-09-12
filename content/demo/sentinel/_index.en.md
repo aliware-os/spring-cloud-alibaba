@@ -1,7 +1,7 @@
 +++
-title = "Sentinel Example"
+title = "2. Sentinel Example"
 date = 2018-08-27T11:44:02+08:00
-weight = 5
+weight = 1
 +++
 
 ## Project Instruction
@@ -247,4 +247,3 @@ It is no need to using SentinelDataSourceRegistry to register FactoryBean if you
 For more information about Sentinel, see [Sentinel Project](https://github.com/alibaba/Sentinel).
 
 If you have any ideas or suggestions for Spring Cloud Sentinel starter, please don't hesitate to tell us by submitting github issues.
-
