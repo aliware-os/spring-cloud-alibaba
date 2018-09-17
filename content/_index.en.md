@@ -56,10 +56,12 @@ Examples：
 The version number of the project is in the form of x.x.x, where x is a number, starting from 0, and is not limited to the range 0~9. When the project is in the incubator phase, the first version number is fixed to 0, that is, the version number is 0.x.x.
 
 As the interfaces and annotations of Spring Boot 1 and Spring Boot 2 have been changed significantly in the Actuator module, and spring-cloud-commons is also changed quite a lot from 1.x.x to 2.0.0, we maintain two different branches to support Spring Boot 1 and Spring Boot 2:
+
 * 0.1.x for Spring Boot 1
 * 0.2.x for Spring Boot 2
 
 During the incubation period，the version management of the project will follow these rules：
+
 * Functional updates will be reflected in the 3rd number of the version, for example, the next version of 0.1.0 will be 0.1.1。
 
 
