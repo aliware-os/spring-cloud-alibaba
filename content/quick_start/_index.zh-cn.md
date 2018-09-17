@@ -1,5 +1,5 @@
 +++
-title = "Quick Start"
+title = "快速开始"
 date = 2018-08-27T11:44:02+08:00
 weight = 2
 +++
