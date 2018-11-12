@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/nacos-discovery/</loc>
+    <lastmod>2018-08-27T11:44:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/nacos-discovery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/nacos-discovery/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/roadmap/</loc>
+    <lastmod>2018-08-27T11:44:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/roadmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/roadmap/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/nacos-config/</loc>
+    <lastmod>2018-08-27T11:44:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/nacos-config/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/nacos-config/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/</loc>
+    <lastmod>2018-08-27T11:44:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/alicloud-storage/</loc>
+    <lastmod>2018-08-27T11:44:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/alicloud-storage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/alicloud-storage/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/</loc>
+    <lastmod>2018-09-11T13:26:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/sentinel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/sentinel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/sentinel/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/test/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://aliware-os.github.io/spring-cloud-alibaba/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://aliware-os.github.io/spring-cloud-alibaba/en/tags/"
+                />
+  </url>
+  
+</urlset>

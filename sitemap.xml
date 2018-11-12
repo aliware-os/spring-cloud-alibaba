@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://aliware-os.github.io/spring-cloud-alibaba/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

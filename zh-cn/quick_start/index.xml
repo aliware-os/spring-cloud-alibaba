@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>快速开始 on Spring Cloud Alibaba 文档</title>
+    <link>http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/</link>
+    <description>Recent content in 快速开始 on Spring Cloud Alibaba 文档</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Aug 2018 11:44:02 +0800</lastBuildDate>
+    
+	<atom:link href="http://aliware-os.github.io/spring-cloud-alibaba/zh-cn/quick_start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

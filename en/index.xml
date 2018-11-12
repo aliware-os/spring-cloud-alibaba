@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring Cloud Alibaba on Documentation for Spring Cloud Alibaba</title>
+    <link>http://aliware-os.github.io/spring-cloud-alibaba/en/</link>
+    <description>Recent content in Spring Cloud Alibaba on Documentation for Spring Cloud Alibaba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Sep 2018 13:26:22 +0800</lastBuildDate>
+    
+	<atom:link href="http://aliware-os.github.io/spring-cloud-alibaba/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aliware-os.github.io/spring-cloud-alibaba/en/quick_start/test/</guid>
+      <description>Spring Cloud Alibaba &amp;#21442;&amp;#32771;&amp;#25991;&amp;#26723;Spring Cloud Alibaba &amp;#21442;&amp;#32771;&amp;#25991;&amp;#26723;Authorsxiaojing, xiaolongzuo, jim fang, bingting pengTable of Contents
+1. &amp;#20171;&amp;#32461;2. &amp;#20381;&amp;#36182;&amp;#31649;&amp;#29702;3. Spring Cloud Alibaba Nacos DiscoveryI. Spring Cloud Alibaba Nacos Config4. &amp;#24555;&amp;#36895;&amp;#24320;&amp;#22987;4.1. &amp;#22522;&amp;#20110;properties&amp;#30340;&amp;#25991;&amp;#20214;&amp;#25193;&amp;#23637;&amp;#21517;&amp;#30340;&amp;#37197;&amp;#32622;&amp;#26041;&amp;#24335;4.1.1. Nacos &amp;#26381;&amp;#21153;&amp;#31471;&amp;#21021;&amp;#22987;&amp;#21270;4.1.2. &amp;#23458;&amp;#25143;&amp;#31471;&amp;#20351;&amp;#29992;&amp;#26041;&amp;#24335;4.2. &amp;#22522;&amp;#20110;yaml&amp;#30340;&amp;#25991;&amp;#20214;&amp;#25193;&amp;#23637;&amp;#21517;&amp;#30340;&amp;#37197;&amp;#32622;&amp;#26041;&amp;#24335;4.3. &amp;#25903;&amp;#25345;&amp;#37197;&amp;#32622;&amp;#30340;&amp;#21160;&amp;#24577;&amp;#26356;&amp;#26032;4.4. &amp;#21487;&amp;#25903;&amp;#25345;profile&amp;#31890;&amp;#24230;&amp;#30340;&amp;#37197;&amp;#32622;5. Spring Cloud Alibaba Sentinel6. Spring Cloud Alibaba Rocket Binder7. Spring Cloud AliCloud ANSII. Spring Cloud AliCloud ACM8. Spring Cloud AliCloud OSS1.&amp;nbsp;&amp;#20171;&amp;#32461;Spring Cloud Alibaba &amp;#33268;&amp;#21147;&amp;#20110;&amp;#25552;&amp;#20379;&amp;#24494;&amp;#26381;&amp;#21153;&amp;#24320;&amp;#21457;&amp;#30340;&amp;#19968;&amp;#31449;&amp;#24335;&amp;#35299;&amp;#20915;&amp;#26041;&amp;#26696;&amp;#12290;&amp;#27492;&amp;#39033;&amp;#30446;&amp;#21253;&amp;#21547;&amp;#24320;&amp;#21457;&amp;#20998;&amp;#24067;&amp;#24335;&amp;#24212;&amp;#29992;&amp;#26381;&amp;#21153;&amp;#30340;&amp;#24517;&amp;#38656;&amp;#32452;&amp;#20214;&amp;#65292;&amp;#26041;&amp;#20415;&amp;#24320;&amp;#21457;&amp;#32773;&amp;#36890;&amp;#36807; Spring Cloud &amp;#32534;&amp;#31243;&amp;#27169;&amp;#22411;&amp;#36731;&amp;#26494;&amp;#20351;&amp;#29992;&amp;#36825;&amp;#20123;&amp;#32452;&amp;#20214;&amp;#26469;&amp;#24320;&amp;#21457;&amp;#20998;&amp;#24067;&amp;#24335;&amp;#24212;&amp;#29992;&amp;#26381;&amp;#21153;&amp;#12290;
+&amp;#20381;&amp;#25176; Spring Cloud Alibaba&amp;#65292;&amp;#24744;&amp;#21482;&amp;#38656;&amp;#35201;&amp;#28155;&amp;#21152;&amp;#19968;&amp;#20123;&amp;#27880;&amp;#35299;&amp;#21644;&amp;#23569;&amp;#37327;&amp;#37197;&amp;#32622;&amp;#65292;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#23558; Spring Cloud &amp;#24212;&amp;#29992;&amp;#25509;&amp;#20837;&amp;#38463;&amp;#37324;&amp;#20998;&amp;#24067;&amp;#24335;&amp;#24212;&amp;#29992;&amp;#35299;&amp;#20915;&amp;#26041;&amp;#26696;&amp;#65292;&amp;#36890;&amp;#36807;&amp;#38463;&amp;#37324;&amp;#20013;&amp;#38388;&amp;#20214;&amp;#26469;&amp;#36805;&amp;#36895;&amp;#25645;&amp;#24314;&amp;#20998;&amp;#24067;&amp;#24335;&amp;#24212;&amp;#29992;&amp;#31995;&amp;#32479;&amp;#12290;</description>
+    </item>
+    
+  </channel>
+</rss>
